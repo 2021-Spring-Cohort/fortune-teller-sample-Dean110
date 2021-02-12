@@ -3,7 +3,7 @@
     {
       "name": "Compile Test",
       "setup": "",
-      "run": "javac FortuneTellerApp",
+      "run": "javac FortuneTellerApp.java",
       "input": "",
       "output": "",
       "comparison": "included",
